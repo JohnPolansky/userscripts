@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  This script is useful with AWS SSO cli tools, where it opens a browser tab to perform authentication. 
 // @description  This script automatically closes the tab on successful finish.
-// @author       You
+// @author       John Polansky
 // @icon         https://www.google.com/s2/favicons?domain=userscript.zone
 // @include      https://d-906769c34d.awsapps.com/*
 // @run-at       document-end
