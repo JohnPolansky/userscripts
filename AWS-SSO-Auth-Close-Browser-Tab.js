@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AWS-SSO-Auth-Close-Browser-Tab
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  This script is useful with AWS SSO cli tools, where it opens a browser tab to perform authentication. 
 // @description  This script automatically closes the tab on successful finish.
 // @author       John Polansky
